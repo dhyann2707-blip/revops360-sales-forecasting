@@ -14,4 +14,4 @@ RevOps360 is an end-to-end B2B sales pipeline analytics platform built to clean 
 - **Win Rate (%)**: `(Closed Won / Total Closed Deals) * 100`
 - **Weighted Forecast ($)**: `Sum(Deal Amount * Stage Probability)`
 - **Sales Cycle Time**: `Average(Close Date - Created Date)`
-- 
+
